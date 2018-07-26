@@ -1,0 +1,3 @@
+rootProject.name = 'XOGame_RN'
+
+include ':app'
